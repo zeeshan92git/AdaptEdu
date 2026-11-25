@@ -1,0 +1,15 @@
+{
+  "_note": "PLACEHOLDER. Add only links you have opened and checked yourself. Do not let an AI agent invent links.",
+  "resources": [
+    {
+      "topicId": "t1",
+      "title": "PLACEHOLDER: replace with a real title",
+      "url": "https://example.com/replace-me",
+      "type": "video",
+      "source": "PLACEHOLDER",
+      "license": "PLACEHOLDER",
+      "estimatedMinutes": 0,
+      "difficulty": "easy"
+    }
+  ]
+}

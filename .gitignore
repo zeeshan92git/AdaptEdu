@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# secrets: never commit real environment files
+.env
+.env.*
+!.env.example
+
+# private course material (textbook PDF etc.)
+docs/private/*
+!docs/private/.gitkeep
+
+# build output and logs
+dist/
+build/
+coverage/
+*.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

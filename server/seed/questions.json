@@ -1,0 +1,15 @@
+{
+  "_note": "PLACEHOLDER. Drafts only. Mark a question approved only after you have checked the answer key.",
+  "questions": [
+    {
+      "topicId": "t1",
+      "text": "PLACEHOLDER question text",
+      "options": ["Option A", "Option B", "Option C", "Option D"],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "explanation": "PLACEHOLDER explanation",
+      "sourceChapter": "PLACEHOLDER",
+      "status": "draft"
+    }
+  ]
+}

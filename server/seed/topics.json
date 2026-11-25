@@ -1,0 +1,11 @@
+{
+  "_note": "PLACEHOLDER. Replace with 6 to 8 topics from your HCI course outline. Keep ids stable.",
+  "topics": [
+    { "id": "t1", "title": "Introduction and principles of HCI", "order": 1, "prerequisites": [], "description": "PLACEHOLDER" },
+    { "id": "t2", "title": "Understanding people (perception, cognition)", "order": 2, "prerequisites": ["t1"], "description": "PLACEHOLDER" },
+    { "id": "t3", "title": "User research methods", "order": 3, "prerequisites": ["t2"], "description": "PLACEHOLDER" },
+    { "id": "t4", "title": "Interaction and interface types", "order": 4, "prerequisites": ["t2"], "description": "PLACEHOLDER" },
+    { "id": "t5", "title": "Design process and prototyping", "order": 5, "prerequisites": ["t3", "t4"], "description": "PLACEHOLDER" },
+    { "id": "t6", "title": "Evaluation methods and usability", "order": 6, "prerequisites": ["t5"], "description": "PLACEHOLDER" }
+  ]
+}
